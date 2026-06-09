@@ -1,0 +1,15 @@
+[project]
+name = "catclaw"
+version = "0.1.0"
+description = "CatClaw - 零基础学Agent：轻量级 AI Agent 框架，支持目标驱动的自主执行"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "ddgs>=9.10.0",
+    "fastmcp>=3.0.1",
+    "openai>=2.16.0",
+    "python-dotenv>=1.0.0",
+]
+
+[project.scripts]
+catclaw = "main:main"
