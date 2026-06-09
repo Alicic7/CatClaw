@@ -205,7 +205,3 @@ CatClaw 的核心是一个 **~56 行的工作流引擎**，在此基础上逐层
 | `ddgs` | DuckDuckGo 网页搜索 |
 | `fastmcp` | MCP 服务器框架 + 客户端（FastMCP 3.x） |
 | `python-dotenv` | `.env` 环境变量加载 |
-
-## 许可
-
-MIT
