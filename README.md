@@ -24,7 +24,7 @@ uv run python main.py
 |:----:|:----:|:------:|
 | `OPENAI_API_KEY` | API 密钥（**必填**） | - |
 | `OPENAI_BASE_URL` | API 地址（**必填**） | `https://api.deepseek.com` |
-| `OPENAI_MODEL_ID` | 模型 ID | `deepseek-v4-pro` |
+| `OPENAI_MODEL_ID` | 模型 ID（**必填**） | `deepseek-v4-pro` |
 | `CATCLAW_MCP_COMMAND` | MCP Server 启动命令（可选） | - |
 | `CATCLAW_MCP_ARGS` | MCP Server 参数，逗号分隔（可选） | - |
 
